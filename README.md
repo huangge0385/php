@@ -1,1 +1,3 @@
-# Simple php program to find and edit person table and company table
+# CRM 
+function:
+  find and edit person in table and company table
