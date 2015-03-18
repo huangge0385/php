@@ -6,6 +6,7 @@ function:
 How to add htconfig\dbConfig.php
 
 <pre>
+
 <?php
 	$db = array('hostname' =>'localhost' ,
 		'username' => 'root',
@@ -13,6 +14,7 @@ How to add htconfig\dbConfig.php
 		'database' => 'GEHUANG',
 	 );
 ?>
+
 </pre>
 
 
