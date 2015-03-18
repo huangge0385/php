@@ -3,20 +3,16 @@ function:
   
   find and edit person in table and company table
   
-How to add htconfig\dbConfig.php
+htconfig\dbConfig.php contains
 
-<pre>
 
-\<?php
 
 	$db = array('hostname' =>'localhost' ,
 		'username' => 'root',
 		'password' => '',
 		'database' => 'GEHUANG',
 	 );
-?>
 
-</pre>
 
 
 
