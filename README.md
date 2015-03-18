@@ -7,7 +7,7 @@ How to add htconfig\dbConfig.php
 
 <pre>
 
-"<?php
+\<?php
 
 	$db = array('hostname' =>'localhost' ,
 		'username' => 'root',
